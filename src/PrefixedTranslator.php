@@ -16,7 +16,7 @@ use Nette\Utils\Strings;
 class PrefixedTranslator implements \Kdyby\Translation\ITranslator
 {
 
-	use \Kdyby\StrictObjects\Scream;
+//	use \Kdyby\StrictObjects\Scream;
 
 	/**
 	 * @var \Kdyby\Translation\ITranslator|\Kdyby\Translation\Translator|\Kdyby\Translation\PrefixedTranslator

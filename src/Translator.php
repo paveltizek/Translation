@@ -22,7 +22,7 @@ use Symfony\Component\Translation\Loader\LoaderInterface;
 class Translator extends \Symfony\Component\Translation\Translator implements \Kdyby\Translation\ITranslator
 {
 
-	use \Kdyby\StrictObjects\Scream;
+//	use \Kdyby\StrictObjects\Scream;
 
 	/**
 	 * @var \Kdyby\Translation\IUserLocaleResolver

@@ -20,7 +20,7 @@ use Nette\PhpGenerator\PhpLiteral;
 class CatalogueCompiler
 {
 
-	use \Kdyby\StrictObjects\Scream;
+//	use \Kdyby\StrictObjects\Scream;
 
 	/**
 	 * @var \Nette\Caching\Cache
